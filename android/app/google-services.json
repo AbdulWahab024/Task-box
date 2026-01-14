@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "756629969686",
+    "project_id": "task-box-334ea",
+    "storage_bucket": "task-box-334ea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756629969686:android:73f8996e18a66f4e8c8e37",
+        "android_client_info": {
+          "package_name": "com.example.task_box"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtHDViO6f2iIJYrCiY5_zjM8brT9GFelw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
