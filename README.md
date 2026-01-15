@@ -1,16 +1,42 @@
-# task_box
+# ✅ Task Box – Task Management App
 
-A task management app
+Task Box is a modern and user-friendly **task management application** built with **Flutter** and **Firebase Realtime Database**.  
+It helps users organize their daily tasks efficiently with secure authentication, real-time updates, and a clean UI with dark mode support.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔐 **User Authentication**
+  - Login
+  - Register
+  - Forgot Password (Password Reset)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 📝 **Task Management**
+  - Create, Read, Update, and Delete (CRUD) tasks
+  - Real-time data synchronization using Firebase Realtime Database
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- ✅ **Task Status Management**
+  - Mark tasks as **Completed**
+  - Track task progress easily
+
+- 🔍 **Search Tasks**
+  - Quickly find tasks by title or keywords
+
+- 👤 **User Profile**
+  - View and manage user profile details
+
+- 🏠 **Home Screen**
+  - Clean and intuitive dashboard for task overview
+
+- 🌙 **Dark Theme Support**
+  - Eye-friendly dark mode for better user experience
+---
+
+## 🛠️ Tech Stack
+
+- **Flutter (Dart)**
+- **Firebase Authentication**
+- **Firebase Realtime Database**
+- **Material UI**
+- **Shared Preferences**
