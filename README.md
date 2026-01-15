@@ -48,9 +48,10 @@ Whether you're managing personal tasks, work projects, or daily reminders, Task 
 ## 🎥 Demo
 <div align="center">
   
-  ![App Demo](assets/videos/task_box video.gif)
+  ![App Demo](assets/videos/task_box%20video.gif)
   
 </div>
+
 ---
 
 ## 📱 Usage
@@ -101,7 +102,6 @@ Whether you're managing personal tasks, work projects, or daily reminders, Task 
 - `firebase_core`: Firebase SDK initialization
 - `firebase_auth`: Authentication functionality
 - `firebase_database`: Realtime Database integration
-- `shared_preferences`: Local storage
 - `provider` or `bloc`: State management (if applicable)
 
 ---
@@ -154,9 +154,11 @@ Task-box/
 
 **Abdul Wahab**
 
-- GitHub: [@AbdulWahab024](https://github.com/AbdulWahab024)
-- LinkedIn: [www.linkedin.com/in/abdul-wahab-4a57b2285]
-- Email: [abdulwahab2957@outlook.com]
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdulWahab024)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-wahab-4a57b2285)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulwahab2957@outlook.com)
+
 
 ---
 
